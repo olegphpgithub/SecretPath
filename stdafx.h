@@ -9,7 +9,11 @@
 
 #include <stdio.h>
 #include <tchar.h>
+#include <string>
 
 
 
 // TODO: reference additional headers your program requires here
+
+#include <Windows.h>
+#include <tchar.h>
